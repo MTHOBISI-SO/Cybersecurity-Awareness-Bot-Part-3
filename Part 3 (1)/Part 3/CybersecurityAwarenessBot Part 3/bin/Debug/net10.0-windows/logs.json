@@ -1,0 +1,14 @@
+[
+  {
+    "Timestamp": "2026-06-25T12:22:59.225502+02:00",
+    "Action": "User asked chatbot: hello"
+  },
+  {
+    "Timestamp": "2026-06-25T12:23:15.1564429+02:00",
+    "Action": "User asked chatbot: my name is boss p "
+  },
+  {
+    "Timestamp": "2026-06-26T08:14:41.9508214+02:00",
+    "Action": "Quiz answer correct"
+  }
+]
